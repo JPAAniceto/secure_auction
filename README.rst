@@ -1,7 +1,7 @@
 Security Project 2018/2019
 
-João Aniceto
-Davide Cruz
+ - João Aniceto
+ - Davide Cruz
 
 INSTALL:
     pip install -r requirements.txt
